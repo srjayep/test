@@ -19,8 +19,8 @@ Refer below diagram for pictorial representation
 
 Current manual process and possibility of automation explained below :
 
-```
-1. Collect all necessary information required for on-boarding services from customer into  wiki?
+```diff
++1. Collect all necessary information required for on-boarding services from customer into  wiki?
 2. On-boarding panel discusses services coming on-board
 3. Prioritize on-boarding of services based on some magic formula (????)
 4. Create EPIC for on-boarding the service  (Can be automated)
