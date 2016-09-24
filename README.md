@@ -318,7 +318,7 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
-[\[Top\]](../README.md)
+[\[Top\]](./README.md)
 
 #### High-Level View (On-boarding automation process)
 
