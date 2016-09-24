@@ -1,6 +1,4 @@
-[CommonLink]: ./README.md
-
-[\[Top\]](./README.md)
+[\[Top\]](../README.md)
 
 # Automation of On-boarding process
 
@@ -42,7 +40,7 @@ Current manual process and possibility of automation explained below :
 
 ### Requirements for Automation
 
-#### 1.  VPC Peering
+#### <p style='color:blue'>1.  VPC Peering</p>
 ```
     - Input
     a. Requires Acceptor and Requestor VPCIDs.
@@ -318,7 +316,8 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
-[\[Top\]](./README.md)
+
+[\[Top\]](../README.md)
 
 #### High-Level View (On-boarding automation process)
 
