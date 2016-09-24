@@ -1,3 +1,7 @@
+[CommonLink]: ../README.md
+
+[\[Top\]](../README.md)
+
 # Automation of On-boarding process
 # =================================
 
@@ -12,6 +16,8 @@ It is important to throughly understand the current process with on-boarding bef
 ## General Approach## General Approach
 
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
+
+Refer below diagram for pictorial representation [OnboardingAutomationlink]: ./On-boarding Automation (Draft).png?raw
 
 Current manual process and possibility of automation explained below :
 
@@ -312,3 +318,7 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
+
+#### High-Level View (On-boarding automation process)
+
+![Onboarding Automation][OnboardingAutomationlink]
