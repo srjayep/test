@@ -10,6 +10,7 @@ standardize redundant tasks and free resources for other valuable tasks.
 
 It is important to throughly understand the current process with on-boarding before moving or attempt to automate the process.
 
+```diff
 ## General Approach
 
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
@@ -19,8 +20,8 @@ Refer below diagram for pictorial representation
 
 Current manual process and possibility of automation explained below :
 
-```diff
-+1. Collect all necessary information required for on-boarding services from customer into  wiki?
+```
+1. Collect all necessary information required for on-boarding services from customer into  wiki?
 2. On-boarding panel discusses services coming on-board
 3. Prioritize on-boarding of services based on some magic formula (????)
 4. Create EPIC for on-boarding the service  (Can be automated)
