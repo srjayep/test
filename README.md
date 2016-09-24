@@ -12,7 +12,7 @@ It is important to throughly understand the current process with on-boarding bef
 
 ```diff
 ## General Approach
-
+```
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
 
 Refer below diagram for pictorial representation 
