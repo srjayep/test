@@ -42,7 +42,7 @@ Current manual process and possibility of automation explained below :
 
 #### <p style='color:blue'>1.  VPC Peering</p>
 ```
-    - Input
+    (&#x1F535;)- Input
     a. Requires Acceptor and Requestor VPCIDs.
     b. Requires Requestor Account ID
     c. Requires Requestor CIDR Block
