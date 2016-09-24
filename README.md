@@ -37,6 +37,7 @@ Current manual process and possibility of automation explained below :
     > Deploy service to Prod    -   Partial automation can be achieved
     > Communication to customer -   Manual / Partial automation can be achieved
 ```
+[\[Top\]](../README.md)
 
 ### Requirements for Automation
 
@@ -89,6 +90,7 @@ Current manual process and possibility of automation explained below :
       a. Is Alias record resolvable
       b. Is latency acceptable
 ```
+[\[Top\]](../README.md)
 
 ####  3. Create new publisher Org.
 ```
@@ -181,6 +183,7 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Is service created valid and ready for publish
 ```
+[\[Top\]](../README.md)
 
 ####  6.  Create Throttling policy
 ```
@@ -317,9 +320,8 @@ Current manual process and possibility of automation explained below :
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
 
-[\[Top\]](../README.md)
-
-
 #### High-Level View (On-boarding automation process)
 
 ![Onboarding Automation][OnboardingAutomationlink]
+
+[\[Top\]](../README.md)
