@@ -11,7 +11,7 @@ standardize redundant tasks and free resources for other valuable tasks.
 It is important to throughly understand the current process with on-boarding before moving or attempt to automate the process.
 
 ```diff
-## General Approach
++## General Approach
 ```
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
 
