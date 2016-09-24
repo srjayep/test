@@ -3,7 +3,6 @@
 [\[Top\]](../README.md)
 
 # Automation of On-boarding process
-# =================================
 
 ## Overview
 
