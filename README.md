@@ -9,15 +9,16 @@
 
 Adobe.io on-boarding process may seem daunting with lots of dependent tasks and moving parts. Since there are a number of components and configuration types
 that need to be dealt with on-boarding, one of the goals of automating on-boarding process is to provide a consistent workflow ,developing agreeable standards,
-standardize redundant tasks and free resources for other more valuable tasks.
+standardize redundant tasks and free resources for other valuable tasks.
 
 It is important to throughly understand the current process with on-boarding before moving or attempt to automate the process.
 
-## General Approach## General Approach
+## General Approach
 
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
 
-Refer below diagram for pictorial representation [OnboardingAutomationlink]: ./On-boarding Automation (Draft).png?raw
+Refer below diagram for pictorial representation 
+[OnboardingAutomationlink]: ./On-boarding Automation (Draft).png?raw
 
 Current manual process and possibility of automation explained below :
 
@@ -28,16 +29,16 @@ Current manual process and possibility of automation explained below :
 4. Create EPIC for on-boarding the service  (Can be automated)
 5. Assign EPIC to DevOps (Can be automated)
 6. EPIC may contain
-    * Create VPC-Peering        -   Can be automated
-    * DNS-Alaises               -   Can be automated
-    * Create new publisher org  -   Can be automated but not aware of any option : Can be an API call
-    * Create service,           -   Too complicated to automate
-    * Create facade service,    -   Too complicated to automate
-    * Create policies,          -   Can be automated but not aware of any option : ??
-    * White-listing entries,    -   Can be automated
-    * Deploy service to Stage   -   Partial automation can be achieved
-    * Deploy service to Prod    -   Partial automation can be achieved
-    * Communication to customer -   Manual / Partial automation can be achieved
+    > Create VPC-Peering        -   Can be automated
+    > DNS-Alaises               -   Can be automated
+    > Create new publisher org  -   Can be automated but not aware of any option : Can be an API call
+    > Create service,           -   Too complicated to automate
+    > Create facade service,    -   Too complicated to automate
+    > Create policies,          -   Can be automated but not aware of any option : ??
+    > White-listing entries,    -   Can be automated
+    > Deploy service to Stage   -   Partial automation can be achieved
+    > Deploy service to Prod    -   Partial automation can be achieved
+    > Communication to customer -   Manual / Partial automation can be achieved
 ```
 
 ### Requirements for Automation
@@ -318,6 +319,7 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
+[\[Top\]](../README.md)
 
 #### High-Level View (On-boarding automation process)
 
