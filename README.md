@@ -1,6 +1,6 @@
-[CommonLink]: ../README.md
+[CommonLink]: ./README.md
 
-[\[Top\]](../README.md)
+[\[Top\]](./README.md)
 
 # Automation of On-boarding process
 
