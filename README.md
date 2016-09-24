@@ -14,7 +14,8 @@ It is important to throughly understand the current process with on-boarding bef
 
 In the spirit of keeping Adobe.io's on-boarding process interaction as simple as possible, this automation process is organized into tasks.
 
-Refer below diagram for pictorial representation [OnboardingAutomationlink]: ./On-boardingAutomation.png
+Refer below diagram for pictorial representation 
+[OnboardingAutomationlink]: ./On-boardingAutomation.png
 
 Current manual process and possibility of automation explained below :
 
@@ -317,6 +318,7 @@ Current manual process and possibility of automation explained below :
   ```
 
 [\[Top\]](../README.md)
+
 
 #### High-Level View (On-boarding automation process)
 
