@@ -323,5 +323,4 @@ Current manual process and possibility of automation explained below :
 #### High-Level View (On-boarding automation process)
 
 ![Onboarding Automation][OnboardingAutomationlink]
-
 [\[Top\]](../README.md)
