@@ -37,13 +37,12 @@ Current manual process and possibility of automation explained below :
     > Deploy service to Prod    -   Partial automation can be achieved
     > Communication to customer -   Manual / Partial automation can be achieved
 ```
-[\[Top\]](../README.md)
 
 ### Requirements for Automation
 
-#### <p style='color:blue'>1.  VPC Peering</p>
+####  1.  VPC Peering
 ```
-    (&#x1F535;)- Input
+    - Input
     a. Requires Acceptor and Requestor VPCIDs.
     b. Requires Requestor Account ID
     c. Requires Requestor CIDR Block
@@ -90,7 +89,6 @@ Current manual process and possibility of automation explained below :
       a. Is Alias record resolvable
       b. Is latency acceptable
 ```
-[\[Top\]](../README.md)
 
 ####  3. Create new publisher Org.
 ```
@@ -183,7 +181,6 @@ Current manual process and possibility of automation explained below :
     - Acceptance
       a. Is service created valid and ready for publish
 ```
-[\[Top\]](../README.md)
 
 ####  6.  Create Throttling policy
 ```
@@ -320,7 +317,7 @@ Current manual process and possibility of automation explained below :
       a. Story must be assigned to start on on-boarding process with DevOps
   ```
 
-#### High-Level View (On-boarding automation process)
+#### On-boarding workflow
 
 ![Onboarding Automation][OnboardingAutomationlink]
 [\[Top\]](https://github.com/srjayep/test.git)
